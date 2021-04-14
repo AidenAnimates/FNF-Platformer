@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="128" tileheight="128" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="tiles" tilewidth="300" tileheight="300" tilecount="2" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="300" height="300" source="../images/tiles/grasstile.png"/>
+  </tile>
+  <tile id="2">
+   <image width="120" height="120" source="../images/tiles/coin.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="Platforms" width="50" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUDDfAONAOGAVgwIhG08p8cuVHCkCPB1LDBZf+0fAlDYyG4+AAhOJhuMYHIx5Mb/sowaNgFIyC4Q8AMjcAMw==
+  </data>
+ </layer>
+ <layer id="2" name="Coins" width="50" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1MEJACAMALGK++/sAu2ngiImcCtcBMCfZtFrRhLACdVHu92SfXQngK4Fj1oAaA==
+  </data>
+ </layer>
+</map>

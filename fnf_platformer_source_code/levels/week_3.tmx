@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.5.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="128" tileheight="128" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" name="tiles" tilewidth="300" tileheight="300" tilecount="2" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="300" height="300" source="../images/tiles/grasstile.png"/>
+  </tile>
+  <tile id="2">
+   <image width="120" height="120" source="../images/tiles/coin.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="4" name="tiles" tilewidth="300" tileheight="300" tilecount="2" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="120" height="120" source="../images/tiles/coin.png"/>
+  </tile>
+  <tile id="1">
+   <image width="300" height="300" source="../images/tiles/grasstile.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="Platforms" width="50" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0kEKACAIBEAv/v/LHaJbCREUxMxFkAVhMQIA4Exu7FfZW17f/1nVrd4ZcjL9B3QNDycAMw==
+  </data>
+ </layer>
+ <layer id="3" name="Don't Touch" width="50" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztz0ENADAMxLD7lD/lkdi0trIRJMl89Tvggsqejw189OKjFx8AAG8cZs4AMw==
+  </data>
+ </layer>
+ <layer id="2" name="Coins" width="50" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1bEJAEAIBEET+2/5MTPwMxNhBpYr4SIAAHZk2ykAuOz3bxuVByPHAJc=
+  </data>
+ </layer>
+</map>
