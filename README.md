@@ -1,4 +1,4 @@
-## Plugins [![Paypal][Discord]][disc-link]
+[![Paypal][Discord]][disc-link]
 [Discord]: https://img.shields.io/discord/832005396084162560?label=Discord
 [disc-link]: https://discord.gg/enbHdjav6j
 # About
