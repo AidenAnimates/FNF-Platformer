@@ -6,8 +6,14 @@ an FNF platformer game
 
 # How to Build
 First, You must install python
+
+
 After that, do pip install arcade and pip install pyinstaller
+
+
 Now all you have to do is open powershell in the source code folder and type "pyinstaller --onefile fnfplatformer.py"
+
+
 Then you are done!
 
 # Change Logs
