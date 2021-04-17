@@ -14,6 +14,9 @@ After that, do pip install arcade and pip install pyinstaller
 Now all you have to do is open powershell in the source code folder and type "pyinstaller --onefile fnfplatformer.py"
 
 
+If that doesn't work then try dragging the pyinstaller exe into the source code folder
+
+
 Then you are done!
 
 # Change Logs
